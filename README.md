@@ -194,7 +194,7 @@ gritforge-bid-review/
 
 ## Contact
 
-Arron Beckham
+Arron Fain
 GritForge Consultants
 arron@gritforge.com
 
