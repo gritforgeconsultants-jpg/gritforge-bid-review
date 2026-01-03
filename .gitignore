@@ -1,0 +1,23 @@
+# Client Data - NEVER commit client projects or sensitive information
+client-projects/*/
+!client-projects/.gitkeep
+
+# Outreach tracking with client info
+outreach/prospect-tracking.csv
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
+*.log

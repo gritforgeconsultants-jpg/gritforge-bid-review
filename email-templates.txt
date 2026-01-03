@@ -1,0 +1,304 @@
+EMAIL OUTREACH TEMPLATES
+Steel Bid Review Service - GritForge Consultants
+
+================================================================================
+TEMPLATE 1B: WARM OUTREACH - FOUNDING CLIENT OFFER (First 3 Only)
+================================================================================
+
+Subject: Quick pre-bid review (Founding Client slot)
+
+Hey [Name] — I'm rolling out a structured bid review service for steel contractors.
+
+If you've got an active bid, I can do a Founding Client review: you book Tier 1 ($497) and I'll deliver Tier 2 depth for the first three clients so I can tighten the process.
+
+Turnaround: 24–48 hours. Deliverable: PDF report with missing-scope checklist + risk flags.
+
+If you want one of the first slots, reply "FOUNDING" and I'll send the intake link.
+
+— Arron
+
+---
+
+ALTERNATE FOUNDING CLIENT (Slightly More Context)
+
+Subject: First 3 bid reviews - Founding Client rate
+
+[Name],
+
+Rolling out structured bid review for steel contractors. I'm taking 3 Founding Clients this month.
+
+The deal:
+- You pay Tier 1 ($497)
+- I deliver Tier 2 depth (scope + tonnage verification + risk analysis)
+- I get real-world feedback to refine delivery
+
+You get full Tier 2 value at Tier 1 price for helping me validate the workflow.
+
+24-48 hour turnaround. PDF report with actionable findings.
+
+Reply "FOUNDING" if you've got an active bid and I'll send the intake form.
+
+Arron
+GritForge Consultants
+
+
+================================================================================
+TEMPLATE 1: WARM OUTREACH (Standard - Not Founding)
+================================================================================
+
+Subject: Quick second-eye on your next bid
+
+[Name],
+
+I've packaged the bid review work I've been doing into a standalone service.
+
+If you've got an active bid where you want expert validation before submission, I'm offering fixed-price reviews with 24-48 hour turnaround.
+
+Last week I caught a missed mezzanine scope on a $280k project for another client. Would have been a $40k hole post-award.
+
+Three tiers:
+- Scope Validation - $497 (24-hour turnaround)
+- Full Bid QC - $997 (tonnage verification + risk analysis)
+- Bid + Scope Doc - $1,497 (complete package ready to submit)
+
+Details: [INSERT LANDING PAGE URL]
+
+Let me know if you've got something coming up. Happy to walk through it.
+
+Arron
+GritForge Consultants
+arron@gritforge.com
+
+---
+
+ALTERNATE WARM OUTREACH (More Direct)
+
+Subject: Bid review service live
+
+[Name],
+
+Quick heads up: I've formalized the bid review process I've been running.
+
+If you need a second set of eyes on an upcoming bid, here's how it works:
+- Upload plans
+- I extract scope, verify tonnage, flag conflicts
+- You get a detailed report in 24-48 hours
+- Fixed price: $497-$1,497 depending on depth
+
+Link: [INSERT LANDING PAGE URL]
+
+Useful for high-dollar bids or complex projects where you want validation before committing.
+
+Hit me back if you want to run something through.
+
+Arron
+
+
+================================================================================
+TEMPLATE 2: COLD OUTREACH (New Prospects)
+================================================================================
+
+Subject: Caught a $40k scope gap last week
+
+[Name],
+
+I run bid review for structural steel contractors who want expert eyes on their packages before they hit submit.
+
+Last week I caught a missed mezzanine scope on a $280k bid. Client avoided a $40k hole.
+
+The usual culprits:
+- Stairs, railings, embed plates buried in architectural drawings
+- Tonnage calculation drift on manual takeoffs
+- Plan conflicts between structural and architectural
+
+If you've got an active bid and want validation before you commit, I offer 24-48 hour fixed-price reviews.
+
+Details here: [INSERT LANDING PAGE URL]
+
+Worth a look if you're bidding six-figure jobs where margins are tight.
+
+Arron Beckham
+GritForge Consultants
+arron@gritforge.com
+
+---
+
+ALTERNATE COLD OUTREACH (Problem-Focused)
+
+Subject: Every missed line item costs you thousands
+
+[Name],
+
+You already know this: the difference between a profitable job and a disaster is often a single overlooked detail in the plans.
+
+I provide fixed-price bid review for structural steel contractors:
+✓ Scope extraction and validation
+✓ Tonnage calculation verification
+✓ Plan conflict flagging
+✓ 24-48 hour turnaround
+
+Three tiers starting at $497. Full details: [INSERT LANDING PAGE URL]
+
+If you're bidding complex projects where you can't afford to leave money on the table, this is cheap insurance.
+
+Arron Beckham
+GritForge Consultants
+
+
+================================================================================
+TEMPLATE 3: FOLLOW-UP SEQUENCE (No Response After 5 Days)
+================================================================================
+
+Subject: Re: Caught a $40k scope gap last week
+
+[Name],
+
+Following up on my note from last week about bid review services.
+
+Not sure if this is on your radar, but if you've got an active bid coming up and want a second set of eyes before submission, the offer stands.
+
+Fixed-price reviews. 24-48 hour turnaround. Details: [INSERT LANDING PAGE URL]
+
+Let me know if you want to discuss.
+
+Arron
+
+
+================================================================================
+TEMPLATE 4: POST-ENGAGEMENT FOLLOW-UP (After Completing Review)
+================================================================================
+
+Subject: [Project Name] - Review Complete
+
+[Name],
+
+Attached is your completed bid review for [Project Name].
+
+Summary:
+- [X] scope items validated
+- [X] potential gaps flagged
+- [X] conflicts identified
+- Tonnage verification: [brief finding]
+
+Key risks to address before submission:
+1. [Risk 1]
+2. [Risk 2]
+3. [Risk 3]
+
+[TIER 2/3 ONLY: I've scheduled our 30-minute review call for [DATE/TIME]. Zoom link: [LINK]]
+
+If you have questions before then, let me know.
+
+Arron
+GritForge Consultants
+
+
+================================================================================
+TEMPLATE 5: TESTIMONIAL REQUEST (After Successful Bid)
+================================================================================
+
+Subject: Quick favor - testimonial?
+
+[Name],
+
+Glad the review helped on [Project Name].
+
+If you're open to it, a short testimonial would be useful for me:
+- What problem were you trying to solve?
+- What did the review catch?
+- Would you use it again?
+
+2-3 sentences is plenty. I'll use it on the site with your permission.
+
+Thanks for trusting me with the work.
+
+Arron
+
+
+================================================================================
+TEMPLATE 6: MONTHLY RETAINER OFFER (After 2-3 Paid Reviews)
+================================================================================
+
+Subject: Retainer pricing for regular bid review
+
+[Name],
+
+You've used the bid review service [X] times in the past [timeframe].
+
+If you're bidding regularly and want ongoing coverage, I offer monthly retainer pricing:
+
+$2,500/month - Unlimited Tier 1 reviews (scope validation)
+Ideal if you're bidding 8-12 jobs/month and want validation on all of them.
+
+Tier 2/3 reviews available at discounted rates for retainer clients.
+
+Let me know if this makes sense for your volume.
+
+Arron
+
+
+================================================================================
+TEMPLATE 7: RE-ENGAGEMENT (Past Client, 60+ Days Inactive)
+================================================================================
+
+Subject: Still available for bid review
+
+[Name],
+
+Just checking in. I know bid cycles can be unpredictable.
+
+If you've got a project coming up where you want second-eye review, the service is still running. Same pricing, same turnaround.
+
+Let me know if something lands on your desk.
+
+Arron
+GritForge Consultants
+
+
+================================================================================
+USAGE NOTES
+================================================================================
+
+WARM OUTREACH:
+- Send immediately to existing clients (Clark Iron, Sean, anyone you've done bid work for)
+- Personalize with specific project references if applicable
+- No hard sell - just making them aware
+- FOR FIRST 3 CLIENTS ONLY: Use Template 1B (Founding Client) for warm network
+  - Positions it as exclusive early access, not discount
+  - You get real feedback, real testimonials, real validation at full price later
+  - Builds relationship debt (they feel invested in your success)
+  - Do NOT mention this publicly or in cold outreach
+  - STRATEGIC EXCEPTION: Sean can get true free if he's willing to give detailed feedback
+
+COLD OUTREACH:
+- Use for Texas/Colorado contractors from your GC research
+- Send 10/day max (avoid spam filters)
+- Track open/reply rates in simple spreadsheet
+- DO NOT use Founding Client messaging in cold outreach
+
+FOLLOW-UP:
+- Wait 5-7 days before first follow-up
+- Max 2 follow-ups, then archive
+- Keep tone professional, not pushy
+
+CUSTOMIZATION:
+- Replace [Name] with actual first name
+- Replace [INSERT LANDING PAGE URL] with actual URL
+- Add specific project references when relevant
+- Adjust pricing if you test different tiers
+
+SUBJECT LINE TESTING:
+If response rates are low, test alternatives:
+- "Second set of eyes on your next steel bid"
+- "Bid review: $497 for 24-hour scope validation"
+- "Missed a line item lately?"
+- "Quick question about your bid process"
+
+SIGNATURE:
+Always include:
+- Full name
+- Company name
+- Email
+- Optional: Phone number (if you want calls)
+
+================================================================================

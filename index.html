@@ -1,0 +1,443 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Steel Bid Review | GritForge Consultants</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+
+        .gradient-bg {
+            background: linear-gradient(135deg, #1e293b 0%, #334155 100%);
+        }
+
+        .price-card:hover {
+            transform: translateY(-4px);
+            transition: transform 0.2s ease;
+        }
+
+        .steel-accent {
+            border-left: 4px solid #ef4444;
+        }
+    </style>
+</head>
+<body class="bg-gray-50">
+
+    <!-- Header -->
+    <header class="gradient-bg text-white py-4 sticky top-0 z-50 shadow-lg">
+        <div class="container mx-auto px-4 flex justify-between items-center">
+            <div class="text-xl font-bold">GritForge Consultants</div>
+            <a href="#pricing" class="bg-red-600 hover:bg-red-700 px-6 py-2 rounded-lg font-semibold transition">
+                Get Started
+            </a>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="gradient-bg text-white py-20">
+        <div class="container mx-auto px-4 max-w-4xl text-center">
+            <h1 class="text-5xl md:text-6xl font-bold mb-6 leading-tight">
+                Catch the $50,000 mistake before you submit the bid.
+            </h1>
+            <p class="text-xl md:text-2xl mb-8 text-gray-300">
+                Expert structural steel bid review for erectors and fabricators who can't afford to leave money on the table.
+            </p>
+            <div class="flex flex-col sm:flex-row gap-4 justify-center">
+                <a href="#pricing" class="bg-red-600 hover:bg-red-700 px-8 py-4 rounded-lg font-semibold text-lg transition">
+                    Review My Next Bid
+                </a>
+                <a href="#how-it-works" class="border-2 border-white hover:bg-white hover:text-slate-800 px-8 py-4 rounded-lg font-semibold text-lg transition">
+                    How It Works
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Problem Section -->
+    <section class="py-16 bg-white">
+        <div class="container mx-auto px-4 max-w-4xl">
+            <div class="text-center mb-12 pb-8 border-b border-gray-200">
+                <p class="text-lg text-gray-700">
+                    Built by the architect of an internal steel bid engine used to review six- and seven-figure structural steel bids.
+                </p>
+            </div>
+            <h2 class="text-3xl md:text-4xl font-bold mb-8 text-center text-slate-800">
+                Every missed line item costs you thousands.
+            </h2>
+            <div class="grid md:grid-cols-3 gap-8">
+                <div class="steel-accent pl-6">
+                    <h3 class="text-xl font-bold mb-3 text-slate-800">Missed Scope</h3>
+                    <p class="text-gray-700">
+                        Mezzanine platforms, stairs, railings, embed plates—easy to overlook in complex plan sets. One miss can kill your margin.
+                    </p>
+                </div>
+                <div class="steel-accent pl-6">
+                    <h3 class="text-xl font-bold mb-3 text-slate-800">Tonnage Errors</h3>
+                    <p class="text-gray-700">
+                        Manual takeoffs introduce calculation drift. A 5% error on a 150-ton job is 7.5 tons you're eating post-award.
+                    </p>
+                </div>
+                <div class="steel-accent pl-6">
+                    <h3 class="text-xl font-bold mb-3 text-slate-800">Plan Conflicts</h3>
+                    <p class="text-gray-700">
+                        Structural drawings don't always align with architectural. Catching conflicts before bid saves change order nightmares.
+                    </p>
+                </div>
+            </div>
+            <div class="mt-12 bg-slate-100 p-8 rounded-lg">
+                <p class="text-lg text-slate-700">
+                    <strong class="text-slate-900">You already know this:</strong> The difference between a profitable job and a disaster is often a single overlooked detail in the plans. You need a second set of expert eyes before you commit.
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Pricing Section -->
+    <section id="pricing" class="py-16 bg-gray-50">
+        <div class="container mx-auto px-4 max-w-6xl">
+            <h2 class="text-4xl font-bold mb-4 text-center text-slate-800">Fixed-Price Bid Review</h2>
+            <p class="text-xl text-center text-gray-600 mb-12">Choose the level of review that matches your risk tolerance.</p>
+
+            <div class="grid md:grid-cols-3 gap-8">
+
+                <!-- Tier 1 -->
+                <div class="bg-white rounded-lg shadow-lg p-8 price-card border-t-4 border-slate-600">
+                    <h3 class="text-2xl font-bold mb-2 text-slate-800">Scope Validation</h3>
+                    <div class="text-4xl font-bold mb-6 text-slate-800">
+                        $497
+                    </div>
+                    <ul class="space-y-3 mb-8 text-gray-700">
+                        <li class="flex items-start">
+                            <svg class="w-6 h-6 text-green-500 mr-2 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                            </svg>
+                            <span>Plan set review for completeness</span>
+                        </li>
+                        <li class="flex items-start">
+                            <svg class="w-6 h-6 text-green-500 mr-2 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                            </svg>
+                            <span>Structural steel scope extraction</span>
+                        </li>
+                        <li class="flex items-start">
+                            <svg class="w-6 h-6 text-green-500 mr-2 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                            </svg>
+                            <span>Missing item checklist</span>
+                        </li>
+                        <li class="flex items-start">
+                            <svg class="w-6 h-6 text-green-500 mr-2 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                            </svg>
+                            <span><strong>24-hour turnaround</strong></span>
+                        </li>
+                        <li class="flex items-start">
+                            <svg class="w-6 h-6 text-green-500 mr-2 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                            </svg>
+                            <span>2-page PDF report</span>
+                        </li>
+                    </ul>
+                    <a href="#contact" class="block w-full bg-slate-600 hover:bg-slate-700 text-white text-center py-3 rounded-lg font-semibold transition">
+                        Select Tier 1
+                    </a>
+                </div>
+
+                <!-- Tier 2 - Featured -->
+                <div class="bg-white rounded-lg shadow-2xl p-8 price-card border-t-4 border-red-600 relative">
+                    <div class="absolute -top-4 left-1/2 transform -translate-x-1/2 bg-red-600 text-white px-4 py-1 rounded-full text-sm font-semibold">
+                        MOST POPULAR
+                    </div>
+                    <h3 class="text-2xl font-bold mb-2 text-slate-800">Full Bid QC</h3>
+                    <div class="text-4xl font-bold mb-6 text-slate-800">
+                        $997
+                    </div>
+                    <ul class="space-y-3 mb-8 text-gray-700">
+                        <li class="flex items-start">
+                            <svg class="w-6 h-6 text-green-500 mr-2 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                            </svg>
+                            <span><strong>Everything in Tier 1</strong></span>
+                        </li>
+                        <li class="flex items-start">
+                            <svg class="w-6 h-6 text-green-500 mr-2 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                            </svg>
+                            <span>Tonnage calculation verification</span>
+                        </li>
+                        <li class="flex items-start">
+                            <svg class="w-6 h-6 text-green-500 mr-2 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                            </svg>
+                            <span>Pricing gap analysis</span>
+                        </li>
+                        <li class="flex items-start">
+                            <svg class="w-6 h-6 text-green-500 mr-2 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                            </svg>
+                            <span>Conflict/risk flagging</span>
+                        </li>
+                        <li class="flex items-start">
+                            <svg class="w-6 h-6 text-green-500 mr-2 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                            </svg>
+                            <span><strong>48-hour turnaround</strong></span>
+                        </li>
+                        <li class="flex items-start">
+                            <svg class="w-6 h-6 text-green-500 mr-2 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                            </svg>
+                            <span>Detailed report + 30-min review call</span>
+                        </li>
+                    </ul>
+                    <a href="#contact" class="block w-full bg-red-600 hover:bg-red-700 text-white text-center py-3 rounded-lg font-semibold transition">
+                        Select Tier 2
+                    </a>
+                </div>
+
+                <!-- Tier 3 -->
+                <div class="bg-white rounded-lg shadow-lg p-8 price-card border-t-4 border-slate-800">
+                    <h3 class="text-2xl font-bold mb-2 text-slate-800">Bid + Scope Doc</h3>
+                    <div class="text-4xl font-bold mb-6 text-slate-800">
+                        $1,497
+                    </div>
+                    <ul class="space-y-3 mb-8 text-gray-700">
+                        <li class="flex items-start">
+                            <svg class="w-6 h-6 text-green-500 mr-2 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                            </svg>
+                            <span><strong>Everything in Tier 2</strong></span>
+                        </li>
+                        <li class="flex items-start">
+                            <svg class="w-6 h-6 text-green-500 mr-2 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                            </svg>
+                            <span>Professional scope of work document</span>
+                        </li>
+                        <li class="flex items-start">
+                            <svg class="w-6 h-6 text-green-500 mr-2 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                            </svg>
+                            <span>Clarification questions drafted for GC</span>
+                        </li>
+                        <li class="flex items-start">
+                            <svg class="w-6 h-6 text-green-500 mr-2 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                            </svg>
+                            <span>Subcontractor coordination notes</span>
+                        </li>
+                        <li class="flex items-start">
+                            <svg class="w-6 h-6 text-green-500 mr-2 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                            </svg>
+                            <span><strong>Full bid package ready to submit</strong></span>
+                        </li>
+                    </ul>
+                    <p class="text-xs text-gray-600 italic mb-4 border-t pt-4">
+                        Note: Provides scope language and coordination notes only. Final pricing, quantities, and contractual commitments remain the sole responsibility of the submitting contractor.
+                    </p>
+                    <a href="#contact" class="block w-full bg-slate-800 hover:bg-slate-900 text-white text-center py-3 rounded-lg font-semibold transition">
+                        Select Tier 3
+                    </a>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- How It Works -->
+    <section id="how-it-works" class="py-16 bg-white">
+        <div class="container mx-auto px-4 max-w-4xl">
+            <h2 class="text-4xl font-bold mb-12 text-center text-slate-800">How It Works</h2>
+            <div class="space-y-8">
+                <div class="flex gap-6">
+                    <div class="flex-shrink-0">
+                        <div class="w-12 h-12 bg-red-600 text-white rounded-full flex items-center justify-center text-xl font-bold">
+                            1
+                        </div>
+                    </div>
+                    <div>
+                        <h3 class="text-xl font-bold mb-2 text-slate-800">Choose Your Tier + Submit Plans</h3>
+                        <p class="text-gray-700">
+                            Select the review level that matches your needs. Upload your plan set and provide project details. Deadline-sensitive? Flag it—we prioritize accordingly.
+                        </p>
+                    </div>
+                </div>
+                <div class="flex gap-6">
+                    <div class="flex-shrink-0">
+                        <div class="w-12 h-12 bg-red-600 text-white rounded-full flex items-center justify-center text-xl font-bold">
+                            2
+                        </div>
+                    </div>
+                    <div>
+                        <h3 class="text-xl font-bold mb-2 text-slate-800">Expert Review Process</h3>
+                        <p class="text-gray-700">
+                            We extract every structural steel element, verify tonnage calculations, flag conflicts, and identify pricing gaps. No shortcuts. No assumptions.
+                        </p>
+                    </div>
+                </div>
+                <div class="flex gap-6">
+                    <div class="flex-shrink-0">
+                        <div class="w-12 h-12 bg-red-600 text-white rounded-full flex items-center justify-center text-xl font-bold">
+                            3
+                        </div>
+                    </div>
+                    <div>
+                        <h3 class="text-xl font-bold mb-2 text-slate-800">Receive Detailed Report</h3>
+                        <p class="text-gray-700">
+                            Get a structured PDF report with findings, recommendations, and risk flags. Tier 2 and 3 include direct consultation to walk through any issues.
+                        </p>
+                    </div>
+                </div>
+                <div class="flex gap-6">
+                    <div class="flex-shrink-0">
+                        <div class="w-12 h-12 bg-red-600 text-white rounded-full flex items-center justify-center text-xl font-bold">
+                            4
+                        </div>
+                    </div>
+                    <div>
+                        <h3 class="text-xl font-bold mb-2 text-slate-800">Submit with Confidence</h3>
+                        <p class="text-gray-700">
+                            Use the findings to refine your bid. Submit knowing you've caught the gaps that would have cost you post-award.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Who This Is For -->
+    <section class="py-16 bg-gray-50">
+        <div class="container mx-auto px-4 max-w-4xl">
+            <h2 class="text-4xl font-bold mb-12 text-center text-slate-800">Who This Is For</h2>
+            <div class="grid md:grid-cols-2 gap-8">
+                <div class="bg-white p-6 rounded-lg shadow">
+                    <h3 class="text-xl font-bold mb-3 text-slate-800">✓ Regional Steel Erectors</h3>
+                    <p class="text-gray-700">
+                        You're competing on tight margins. A single missed scope item can turn a winning bid into a loss. You need validation before you commit.
+                    </p>
+                </div>
+                <div class="bg-white p-6 rounded-lg shadow">
+                    <h3 class="text-xl font-bold mb-3 text-slate-800">✓ Fabricators Without Deep Estimating</h3>
+                    <p class="text-gray-700">
+                        Your shop is excellent, but your estimating team is stretched. You want expert backup on complex projects without hiring full-time.
+                    </p>
+                </div>
+                <div class="bg-white p-6 rounded-lg shadow">
+                    <h3 class="text-xl font-bold mb-3 text-slate-800">✓ Growing Contractors</h3>
+                    <p class="text-gray-700">
+                        You're moving into larger projects and need to build confidence in your bid process before scaling.
+                    </p>
+                </div>
+                <div class="bg-white p-6 rounded-lg shadow">
+                    <h3 class="text-xl font-bold mb-3 text-slate-800">✓ Anyone Burned Before</h3>
+                    <p class="text-gray-700">
+                        You've eaten a scope gap on a previous job. You're not doing that again. Second-eye review is cheap insurance.
+                    </p>
+                </div>
+            </div>
+
+            <!-- Who This Is NOT For -->
+            <div class="mt-16 bg-slate-100 border-l-4 border-slate-600 p-8 rounded">
+                <h3 class="text-2xl font-bold mb-4 text-slate-800">This Service Is NOT For:</h3>
+                <ul class="space-y-3 text-gray-700">
+                    <li class="flex items-start">
+                        <span class="text-slate-600 mr-3 text-xl">✗</span>
+                        <span>Contractors looking to outsource pricing responsibility or decision-making</span>
+                    </li>
+                    <li class="flex items-start">
+                        <span class="text-slate-600 mr-3 text-xl">✗</span>
+                        <span>General contractors seeking bid coverage or liability transfer</span>
+                    </li>
+                    <li class="flex items-start">
+                        <span class="text-slate-600 mr-3 text-xl">✗</span>
+                        <span>Projects without issued structural drawings or incomplete plan sets</span>
+                    </li>
+                    <li class="flex items-start">
+                        <span class="text-slate-600 mr-3 text-xl">✗</span>
+                        <span>Emergency same-day reviews with unrealistic timelines</span>
+                    </li>
+                </ul>
+                <p class="mt-4 text-sm text-gray-600 italic">
+                    This is a professional review service for contractors who take responsibility for their bids and want expert validation, not a liability shield.
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- FAQ -->
+    <section class="py-16 bg-white">
+        <div class="container mx-auto px-4 max-w-3xl">
+            <h2 class="text-4xl font-bold mb-12 text-center text-slate-800">Common Questions</h2>
+            <div class="space-y-6">
+                <div class="border-l-4 border-red-600 pl-6">
+                    <h3 class="text-xl font-bold mb-2 text-slate-800">What if my bid deadline is in 48 hours?</h3>
+                    <p class="text-gray-700">
+                        Tier 1 is designed for 24-hour turnaround. If you're under extreme time pressure, reach out directly—we'll see what we can do.
+                    </p>
+                </div>
+                <div class="border-l-4 border-red-600 pl-6">
+                    <h3 class="text-xl font-bold mb-2 text-slate-800">Do you provide actual tonnage takeoffs, or just verify mine?</h3>
+                    <p class="text-gray-700">
+                        Tier 1 and 2 verify your existing takeoff. Tier 3 can include fresh takeoff if needed—we'll clarify scope during intake.
+                    </p>
+                </div>
+                <div class="border-l-4 border-red-600 pl-6">
+                    <h3 class="text-xl font-bold mb-2 text-slate-800">What format do you need the plans in?</h3>
+                    <p class="text-gray-700">
+                        PDF is preferred. If you have access to a plan room link (Procore, BuildingConnected, etc.), that works too.
+                    </p>
+                </div>
+                <div class="border-l-4 border-red-600 pl-6">
+                    <h3 class="text-xl font-bold mb-2 text-slate-800">Can I use this service repeatedly?</h3>
+                    <p class="text-gray-700">
+                        Absolutely. Many clients use Tier 1 on every bid over a certain dollar threshold. If you're bidding regularly, ask about monthly retainer pricing.
+                    </p>
+                </div>
+                <div class="border-l-4 border-red-600 pl-6">
+                    <h3 class="text-xl font-bold mb-2 text-slate-800">What if you find an error in my bid?</h3>
+                    <p class="text-gray-700">
+                        That's the point. We flag it, explain it, and recommend how to address it. You decide whether to adjust pricing, add qualifications, or accept the risk.
+                    </p>
+                </div>
+                <div class="border-l-4 border-red-600 pl-6">
+                    <h3 class="text-xl font-bold mb-2 text-slate-800">Do you keep my bid information confidential?</h3>
+                    <p class="text-gray-700">
+                        Yes. All plan sets, pricing, and project details are confidential. We don't share your information with anyone.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Final CTA -->
+    <section id="contact" class="gradient-bg text-white py-20">
+        <div class="container mx-auto px-4 max-w-3xl text-center">
+            <h2 class="text-4xl font-bold mb-6">Ready to Submit a Winning Bid?</h2>
+            <p class="text-xl mb-8 text-gray-300">
+                Stop leaving money on the table. Get expert review before your next submission.
+            </p>
+            <div class="bg-white text-slate-800 p-8 rounded-lg shadow-2xl">
+                <h3 class="text-2xl font-bold mb-6">Get Started</h3>
+                <p class="mb-6 text-gray-700">
+                    Email <a href="mailto:arron@gritforge.com" class="text-red-600 font-semibold hover:underline">arron@gritforge.com</a> with your project details and preferred tier.
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-slate-900 text-gray-400 py-8">
+        <div class="container mx-auto px-4 text-center">
+            <p class="mb-2">© 2026 GritForge Consultants. All rights reserved.</p>
+            <p class="text-sm">Structural steel bid review and consulting services for commercial construction.</p>
+        </div>
+    </footer>
+
+</body>
+</html>
